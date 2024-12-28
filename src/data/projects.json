@@ -1,0 +1,18 @@
+[
+  {
+    "title": "JobQuest",
+    "imageSrc": "projects/project.png",
+    "description": "Job portal website using MERN stack",
+    "skills": ["MERN Stack"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SiddheshKondar/JobQuest-Job-Search-portal"
+  },
+  {
+    "title": "WanderWay",
+    "imageSrc": "projects/project.png",
+    "description": "React based frontend project of a travel website.",
+    "skills": ["ReactJS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
