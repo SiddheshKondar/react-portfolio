@@ -1,7 +1,7 @@
 {
-  "homepage": "https://SiddheshKondar.github.io/react-portfolio/",
+  "homepage": "https://siddheshkondar.github.io/react-portfolio/",
   "name": "react-portfolio",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
